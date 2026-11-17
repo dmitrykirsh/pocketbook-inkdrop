@@ -1,0 +1,8 @@
+toolchain.tar.bz2
+book/toolchain.tar.bz2
+book/libs/
+book/out/
+vendor/SDK_6.3.0/
+vendor/inkview.h
+release/InkDrop-PB629-v0.1/
+release/InkDrop-PB629-v0.1.zip
